@@ -153,32 +153,6 @@ All connectivity tests were successfully verified.
 
 ---
 
-## 📂 Repository Structure
-
-```
-campus-network-design-packet-tracer/
-│
-├── README.md
-├── topology/
-│   └── campus_network.pkt
-│
-├── configs/
-│   ├── core_router.txt
-│   ├── distribution_switch.txt
-│   ├── access_switch.txt
-│   └── dhcp_config.txt
-│
-├── screenshots/
-│   ├── topology.png
-│   ├── vlan_setup.png
-│   ├── routing_setup.png
-│   └── connectivity_test.png
-│
-├── report/
-│   └── Project_Report.pdf
-│
-└── LICENSE
-```
 
 ---
 
@@ -186,10 +160,8 @@ campus-network-design-packet-tracer/
 
 1. Install Cisco Packet Tracer (version 8.x recommended)
 2. Download or clone this repository
-3. Navigate to the `topology` folder
-4. Open `campus_network.pkt`
-5. Explore device configurations
-6. Test connectivity using command prompt within Packet Tracer
+3. Explore device configurations
+4. Test connectivity using command prompt within Packet Tracer
 
 ---
 
@@ -224,4 +196,3 @@ Networking & Systems Enthusiast
 
 ---
 
-⭐ If you found this project useful, feel free to fork or star the repository.
